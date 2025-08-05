@@ -32,11 +32,11 @@ A Library Management System REST API built with **Express**, **TypeScript**, and
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/codermdshakil/express-mongoose-master.git
+git clone git remote add origin https://github.com/codermdshakil/B2A3.git
 ```
 2. **Switch to project**
 ```bash
-cd express-mongoose-master/module-19-assignment-3
+cd B2A3
 ```
 
 3. **Install dependencies**
