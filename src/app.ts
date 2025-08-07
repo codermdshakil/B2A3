@@ -8,7 +8,7 @@ app.use("/api", bookRouter);
 
 
 app.get("/", (req: Request, res: Response) => {
-  res.send("Hello world");
+  res.send("Hello world, from  library mangemen API");
 });
 
 app.get("/health", (req: Request, res: Response) => {

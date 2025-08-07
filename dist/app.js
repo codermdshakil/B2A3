@@ -9,7 +9,7 @@ const app = (0, express_1.default)();
 app.use(express_1.default.json());
 app.use("/api", book_controller_1.default);
 app.get("/", (req, res) => {
-    res.send("Hello world");
+    res.send("Hello world, from  library mangemen API");
 });
 app.get("/health", (req, res) => {
     res.send("OK!");
