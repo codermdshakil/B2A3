@@ -90,7 +90,7 @@ npm run dev
 
 ## Live Demo
 
-[🔗 Live API Link](https://your-deployed-url.com)
+[🔗 Live API Link](https://b2-a3-server.vercel.app/)
 
 ## Video Walkthrough
 
